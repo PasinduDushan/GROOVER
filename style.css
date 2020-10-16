@@ -1,0 +1,43 @@
+.theme{
+  background-color: gray;
+  height: 1287px;
+  border-radius: 10px;
+}
+
+.invite{
+  height: 70px;
+  background-color: blue;
+  border-radius: 10px;
+}
+
+button{
+  border: none;
+  border-radius: 5px;
+  font-size: 17px;
+  height: 40px;
+  widtht: 70px;
+  margin: 20px 15px 15px 0;
+}
+
+img{
+  border-radius: 50px;
+  height: 450px;
+  width: 900px;
+}
+
+.features{
+   font-weight:bold;
+   font-family:Courier;
+}
+
+.dark{
+  background-color: lightSteelBlue;
+}
+
+.light{
+  background-color: ghostWhite;
+}
+
+.ninja{
+  background-color: darkGray;
+}
